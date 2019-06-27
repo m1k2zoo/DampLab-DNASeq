@@ -1,0 +1,8 @@
+# BLASTN 2.2.31+
+# Query: gi|4557562|ref|NM_000122.1| Homo sapiens ERCC excision repair 3, TFIIH core complex helicase subunit (ERCC3), transcript variant 1, mRNA
+# Database: /home/kumail/blastdb/refseq_rna.00
+# Fields: subject tax ids
+# 2 hits found
+9606
+9601
+# BLAST processed 1 queries
