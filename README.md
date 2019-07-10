@@ -2,7 +2,7 @@
 #### Applies screening nethods to DNA sequences to ensure safe gene synthesis.
 The program starts with a FASTA file, BLASTs it against the database of choice, and then contrast the hits of the BLAST search 
 against our databases to determine whether the sequence is harmful or not. 
-You can take a look at those databases in the CSV files. Note that you can choose which database to run the BLAST search 
+Note that you can choose which database to run the BLAST search 
 against by manipulating **String[] command**, which is initialized at the beginning **src/main/java/Main.java**
 
 ### Prerequisites
